@@ -1,0 +1,31 @@
+.bg-header {
+    background-color: #264653;
+}
+
+.btn-color {
+    background-color: #E76F51;
+    text-decoration: none;
+}
+
+.text-color {
+    color: #E76F51;
+}
+
+.feature-filter {
+    filter: grayscale(100%);
+}
+
+.icon-rating {
+    color: #E76F51;
+}
+
+.icon-no-rating {
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #E76F51;
+}
+
+.footer-option {
+    color: white;
+    text-decoration: none;
+}
